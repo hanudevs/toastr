@@ -4,7 +4,7 @@ namespace Hanudev\Toastr\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class ToastrFacade extends Facade
+class Toastr extends Facade
 {
     protected static function getFacadeAccessor()
     {
